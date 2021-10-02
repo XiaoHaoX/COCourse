@@ -113,7 +113,7 @@ description: 是description呀
 
 小数点固定在某一位置的数称为定点数，有以下两种表示方式：
 
-![MMPwtO.png](https://s2.ax1x.com/2019/11/11/MMPwtO.png)
+![MMPwtO.png](https://s2.ax1x.com/2019/11/11/MMPwtO.png "这里是图片的标题测试测试测试")
 
 当小数点位于数符和第一数值位之间时（如上如左），机器内的数为纯小数；当小数点位于数值位之后时（如上如右），机器内的数为纯整数。
 
