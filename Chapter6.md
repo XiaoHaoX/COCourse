@@ -19,7 +19,7 @@ description: 是description呀
 
 因为没有符号，所以 8 位寄存器可以存放28=256范围大小的数字，即 0 ～ 255。同理，16 位寄存器可以存放216=65536范围大小的数字，即 0 ～ 65535。
 
-![Image_created_with_a_mobile_phone](img/Image_created_with_a_mobile_phone.png "png图像")
+[HTML展示](./interactive.html)
 
 ![tree-736885_960_720](img/tree-736885_960_720.webp "webp图像")
 
